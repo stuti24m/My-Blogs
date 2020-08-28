@@ -1,2 +1,3 @@
-# My-Blogs
-Backup repository for Hashnode blogs
+# My-Blogs --
+Contains my blogs till date.
+<br> Work in Progress
